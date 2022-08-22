@@ -1,5 +1,5 @@
 
-function register_pane(name, def)
+local function register_pane(name, def)
 	for i = 1, 15 do
 		minetest.register_alias("xpanes:" .. name .. "_" .. i, "xpanes:" .. name .. "_flat")
 	end
@@ -66,9 +66,9 @@ end
 
 local panes_list = {
 	{"white", "White", "ffffff", }, {"blue", "Blue", "0000FF", },
-	{"cyan", "Cyan", "00FFFF", }, {"green", "Green", "00FF00", }, 
-	{"magenta", "Magenta", "FF00FF", }, {"orange", "Orange", "FF6103", }, 
-	{"violet", "Purple", "800080", }, {"red", "Red", "FF0000", }, 
+	{"cyan", "Cyan", "00FFFF", }, {"green", "Green", "00FF00", },
+	{"magenta", "Magenta", "FF00FF", }, {"orange", "Orange", "FF6103", },
+	{"violet", "Purple", "800080", }, {"red", "Red", "FF0000", },
 	{"yellow", "Yellow", "FFFF00", },
 }
 
