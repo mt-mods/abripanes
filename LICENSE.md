@@ -1,15 +1,9 @@
+# Licenses
 
-Textures:
-CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-Attribution: Shara RedCat
+Textures: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Shara RedCat
+Code and Translations: [MIT](https://opensource.org/licenses/MIT)
 
-Code:
-License: MIT (https://opensource.org/licenses/MIT)
-By Shara RedCat
-
-Registry code adapted from xpanes mod in minetest_game (https://github.com/minetest/minetest_game/tree/master/mods/xpanes)
-
-
+Registry code adapted from xpanes mod in [Minetest Game](https://github.com/minetest/minetest_game/tree/master/mods/xpanes).
 
 ---
 
