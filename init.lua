@@ -1,8 +1,8 @@
-local modpath = minetest.get_modpath("abripanes").. DIR_DELIM
+local modpath = core.get_modpath("abripanes") .. DIR_DELIM
 
 abripanes = {}
 
-dofile(modpath.."api.lua")
-dofile(modpath.."nodes.lua")
+dofile(modpath .. "api.lua")
+dofile(modpath .. "nodes.lua")
 
 abripanes.init = true
