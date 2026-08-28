@@ -1,0 +1,15 @@
+{
+  "$schema": "https://content.luanti.org/api/cdb_schema/",
+  "title": "Abripanes",
+  "tags": ["decorative", "building"],
+  "type": "MOD",
+  "dev_state": "MAINTENANCE_ONLY",
+  "ai_disclosure": "NONE",
+  "license": "MIT",
+  "media_license": "CC-BY-SA-4.0",
+  "repo": "https://github.com/mt-mods/abripanes",
+  "issue_tracker": "https://github.com/mt-mods/abripanes/issues/new/choose/",
+  "forum_url": "https://forum.luanti.org/viewtopic.php?t=16224",
+  "translation_url": "https://translate.luanti.ch/engage/mt-mods/",
+  "short_description": "Adds faintly glowing coloured glass panes which can be used for stained glass windows or for gentle lighting."
+}
