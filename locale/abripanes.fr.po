@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-28 15:23-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+#: nodes.lua:4
+msgid "White"
+msgstr ""
+
+#: nodes.lua:5
+msgid "Blue"
+msgstr ""
+
+#: nodes.lua:6
+msgid "Cyan"
+msgstr ""
+
+#: nodes.lua:7
+msgid "Green"
+msgstr ""
+
+#: nodes.lua:8
+msgid "Magenta"
+msgstr ""
+
+#: nodes.lua:9
+msgid "Orange"
+msgstr ""
+
+#: nodes.lua:10
+msgid "Purple"
+msgstr ""
+
+#: nodes.lua:11
+msgid "Red"
+msgstr ""
+
+#: nodes.lua:12
+msgid "Yellow"
+msgstr ""
+
+#: nodes.lua:22
+msgid "@1 Glass Pane"
+msgstr ""
